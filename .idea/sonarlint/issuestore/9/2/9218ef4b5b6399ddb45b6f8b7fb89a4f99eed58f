@@ -1,0 +1,17 @@
+
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ó—®‰øÿÿÿÿ8şßÍÔ».
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(£Â¹“8şßÍÔ».
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ÅÌÕë8şßÍÔ».
+Q
+java:S1172R"4Remove this unused method parameter "socketChannel".(´ğ¶8–œ½½.
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(±ÖÖ¡8”èÖ´À.
+d
+java:S1144a"BRemove this unused private "waitingForServerLoginResponse" method.(³ò§Õûÿÿÿÿ8µ“€½½.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(òú¹Øøÿÿÿÿ8Å±ÓÀ.
+`
+java:S1128"CRemove this unused import 'java.util.concurrent.ThreadLocalRandom'.(¨ÏÙî8Å±ÓÀ.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ÛïŠÂ8Å±ÓÀ.
+[
+java:S1197¶"8Move the array designator from the variable to the type.(…ÅŒÄùÿÿÿÿ8°š¬´À.
+Z
+java:S3655…"7Call "Optional#isPresent()" before accessing the value.(š¼áàşÿÿÿÿ8êËÀ¢¼.
